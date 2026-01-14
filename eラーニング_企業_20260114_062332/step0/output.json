@@ -1,0 +1,66 @@
+{
+  "step": "step0",
+  "keyword": "eラーニング 企業",
+  "analysis": "```json\n{\n  \"keyword\": \"eラーニング 企業\",\n  \"search_intent\": \"企業内研修や社員教育のためにeラーニングシステム（LMS）やコンテンツの導入を検討しており、サービスの比較、機能、費用対効果、導入事例などの情報を求めている（Commercial/Transactional）。\",\n  \"difficulty\": \"high\",\n  \"suggested_topics\": [\n    \"法人向けeラーニングサービスのおすすめ比較\",\n    \"企業がeラーニングを導入するメリット・デメリット\",\n    \"eラーニングによる新人研修・コンプライアンス研修の効率化\",\n    \"LMS（学習管理システム）の選び方と機能\",\n    \"助成金を活用した企業向けeラーニング導入\"\n  ],\n  \"target_audience\": \"企業の人事担当者、教育・研修担当者、経営層、総務担当者\"\n}\n```",
+  "search_intent": "企業内研修や社員教育のためにeラーニングシステム（LMS）やコンテンツの導入を検討しており、サービスの比較、機能、費用対効果、導入事例などの情報を求めている（Commercial/Transactional）。",
+  "difficulty_score": 5,
+  "recommended_angles": [],
+  "target_audience": "企業の人事担当者、教育・研修担当者、経営層、総務担当者",
+  "content_type_suggestion": "",
+  "four_pillars_evaluation": null,
+  "article_strategy": null,
+  "word_count_config": {
+    "mode": "ai_balanced",
+    "manual_word_count": null,
+    "tolerance": {
+      "min_tolerance": -300,
+      "max_tolerance": 300
+    }
+  },
+  "cta_specification": {
+    "design_type": "staged",
+    "placements": {
+      "early": {
+        "position": 650,
+        "url": "",
+        "text": ""
+      },
+      "mid": {
+        "position": 2800,
+        "url": "",
+        "text": ""
+      },
+      "final": {
+        "position": "target_word_count - 500",
+        "url": "",
+        "text": ""
+      }
+    }
+  },
+  "search_volume": null,
+  "competition": null,
+  "model": "gemini-3-pro-preview",
+  "model_config": {
+    "platform": "gemini",
+    "model": "gemini-3-pro-preview"
+  },
+  "token_usage": {
+    "input": 110,
+    "output": 198
+  },
+  "metrics": {
+    "char_count": 425,
+    "word_count": 223
+  },
+  "quality": {
+    "issues": [],
+    "attempts": 1
+  },
+  "parse_result": {
+    "success": true,
+    "format_detected": "json",
+    "fixes_applied": [
+      "code_block_removed"
+    ]
+  }
+}
