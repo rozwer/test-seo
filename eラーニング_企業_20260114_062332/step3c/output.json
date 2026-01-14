@@ -1,0 +1,572 @@
+{
+  "step": "step3c",
+  "keyword": "eラーニング 企業",
+  "word_count_mode": "ai_balanced",
+  "competitor_analysis": "{\n  \"keyword\": \"eラーニング 企業\",\n  \"market_overview\": \"「eラーニング 企業」の検索意図は、導入を検討中の担当者がシステム比較や選び方を知りたいというニーズが中心。上位記事は1万字を超える網羅的な比較記事（まとめサイト型）が占有しており、情報の網羅性は高いが、ユーザーにとっては「選択肢が多すぎて選べない（決定回避の法則）」状態に陥りやすい。競合は機能や価格の羅列に終始しており、「導入後の定着」や「具体的な人材育成成果」への言及が弱い。ここに「失敗しない選び方」や「運用定着」に焦点を当てた差別化の余地がある。\",\n  \"competitor_profiles\": [\n    {\n      \"url\": \"https://www.aspicjapan.org/asu/article/1798\",\n      \"title\": \"eラーニングシステム比較16選。タイプや選び方を一覧で紹介\",\n      \"strengths\": [\"16選という圧倒的な情報量\", \"タイプ別（コンテンツ型・プラットフォーム型）の分類が明確\", \"比較表による一覧性\"],\n      \"weaknesses\": [\"情報過多で決定打に欠ける\", \"独自の定性的な評価が少ない\", \"CTAが資料請求一括のみでハードルが高い\"],\n      \"content_focus\": [\"システム機能比較\", \"価格比較\", \"タイプ別分類\"],\n      \"unique_value\": \"SaaS比較サイトとしての網羅性と中立性演出\",\n      \"threat_level\": \"high\"\n    },\n    {\n      \"url\": \"https://www.lightworks.co.jp/media/e-learning-system/\",\n      \"title\": \"【最新版ベンダー比較表付き！】企業向けeラーニングシステム10選をプロが徹底解説\",\n      \"strengths\": [\"プロによる解説という権威性\", \"最新ベンダー比較表の提供\", \"DXやリスキリングなどトレンド用語との絡み\"],\n      \"weaknesses\": [\"自社製品への誘導が強い\", \"記事構成がやや専門的で初心者にはハードルが高い\"],\n      \"content_focus\": [\"プロ視点の解説\", \"トレンド（DX/リスキリング）\", \"ベンダー比較\"],\n      \"unique_value\": \"人材育成のプロフェッショナルとしての信頼性\",\n      \"threat_level\": \"high\"\n    },\n    {\n      \"url\": \"https://aircourse.com/jinsapo/training-effective-utilization-method.html\",\n      \"title\": \"eラーニングの効果的な7つの活用方法｜企業のための実践的ガイド\",\n      \"strengths\": [\"システム比較だけでなく「活用方法」に焦点を当てている\", \"導入後のイメージが湧きやすい\", \"実践的ガイドとしての有用性\"],\n      \"weaknesses\": [\"システムそのものの比較情報は少ない\", \"文字数が競合上位に比べてやや少ない（といっても1万字超）\"],\n      \"content_focus\": [\"活用事例\", \"導入効果\", \"実践ガイド\"],\n      \"unique_value\": \"ツール導入ではなく「活用」をゴールにした記事構成\",\n      \"threat_level\": \"medium\"\n    }\n  ],\n  \"word_count_analysis\": {\n    \"mode\": \"ai_balanced\",\n    \"analysis_skipped\": false,\n    \"skip_reason\": \"\",\n    \"target_keyword\": \"eラーニング 企業\",\n    \"competitor_statistics\": {\n      \"average_word_count\": 10590,\n      \"median_word_count\": 11921,\n      \"max_word_count\": 15015,\n      \"min_word_count\": 3484,\n      \"standard_deviation\": 4560,\n      \"data_points\": 10\n    },\n    \"article_details\": [\n      {\"rank\": 1, \"title\": \"eラーニングシステム比較16選...\", \"url\": \"https://www.aspicjapan.org/asu/article/1798\", \"word_count\": 15015, \"notes\": \"最大文字数\"},\n      {\"rank\": 5, \"title\": \"【2025年最新版】本当に使える...\", \"url\": \"https://www.smartboarding.net/column/training-comparison\", \"word_count\": 4626, \"notes\": \"独自視点で短め\"},\n      {\"rank\": 7, \"title\": \"e-JINZAI 企業向けe ラーニング...\", \"url\": \"https://www.ejinzai.jp/\", \"word_count\": 3484, \"notes\": \"最小文字数\"}\n    ],\n    \"ai_suggestion\": {\n      \"ai_suggested_word_count\": 10600,\n      \"suggestion_logic\": \"競合平均10,590字に対し、ai_balancedモード（平均±5%）を適用。上位サイトの多くが15,000字に達しているが、情報の重複を避け質を高めることで10,600字程度が最適と判断。\",\n      \"note\": \"上位記事の多くが15015文字で横並びしており、システム上の上限またはデータ抽出の特徴の可能性があります。過度な長文化競争は避け、可読性を重視します。\"\n    },\n    \"ai_suggested_word_count\": 10600,\n    \"rationale\": \"競合平均（約10,600字）と同等を維持しつつ、情報の構造化で勝負するため。\",\n    \"target_word_count_range\": {\n      \"min\": 10000,\n      \"min_relaxed\": 9500,\n      \"max\": 11200,\n      \"target\": 10600\n    },\n    \"note\": \"この文字数は達成すべき目標値です。目標範囲は±600字です。\"\n  },\n  \"target_word_count\": 10600,\n  \"ranking_factor_analysis\": {\n    \"analysis_summary\": \"上位記事は「網羅性（10〜20社の比較）」と「検索性（比較表）」を重視しており、認知負荷を減らしたいユーザーのニーズに応えている。一方で、導入後の失敗リスクに対する感情的なケアや、具体的なアクションプラン（稟議の通し方など）は不足している。\",\n    \"top_articles_deep_analysis\": [\n      {\n        \"rank\": 1,\n        \"title\": \"eラーニングシステム比較16選。タイプや選び方を一覧で紹介\",\n        \"url\": \"https://www.aspicjapan.org/asu/article/1798\",\n        \"satisfaction_deep_dive\": {\n          \"cognitive_satisfaction\": {\n            \"article_feature\": \"16システムの機能・料金一覧\",\n            \"level_1\": \"多くの選択肢を一度に把握できる\",\n            \"level_2\": \"自分で各社サイトを回る手間が省ける\",\n            \"level_3\": \"情報収集に膨大な時間がかかり、本来の業務を圧迫する\",\n            \"level_4\": \"効率的に情報を集めたいが、見落としもしたくない\",\n            \"level_5_root\": \"認知負荷の軽減\"\n          },\n          \"emotional_satisfaction\": {\n            \"article_feature\": \"SaaS比較サイトという第三者視点\",\n            \"level_1\": \"特定のベンダーに偏らない情報が得られる安心感\",\n            \"level_2\": \"公平な判断材料を持っていると感じられる\",\n            \"level_3\": \"偏った情報で選定し、後で失敗したと責められる不安\",\n            \"level_4\": \"失敗したくない、責任を問われたくない\",\n            \"level_5_root\": \"社会的リスクの回避\"\n          },\n          \"actionable_satisfaction\": {\n            \"article_feature\": \"一括資料ダウンロード機能\",\n            \"level_1\": \"ワンクリックで複数社の詳細資料が入手できる\",\n            \"level_2\": \"次のアクション（詳細検討）へすぐに移行できる\",\n            \"level_3\": \"個別に問い合わせるのが面倒で検討が先送りになる\",\n            \"level_4\": \"手っ取り早く「仕事を進めた」という実績が欲しい\",\n            \"level_5_root\": \"時間/労力の節約\"\n          },\n          \"root_cause_categories_used\": [\"認知負荷の軽減\", \"社会的リスクの回避\", \"時間/労力の節約\"]\n        },\n        \"google_evaluation_factors\": {\n          \"experience\": \"比較サイトとしての運営実績はあるが、筆者の個別体験は薄い\",\n          \"expertise\": \"SaaS全般の知識は深いが、教育工学的な専門性は中程度\",\n          \"authoritativeness\": \"「アスピック」ブランドによる高いドメインパワー\",\n          \"trustworthiness\": \"情報の更新頻度が高く、データが正確\",\n          \"search_intent_fulfillment\": \"「比較したい」という顕在ニーズを完璧に満たしている\",\n          \"user_experience_signals\": \"目次、表組みが見やすく、長文でも離脱しにくい構造\"\n        },\n        \"user_journey_fulfillment\": \"情報収集→比較→資料請求までの導線がスムーズだが、導入後の活用イメージまではカバーしていない\"\n      },\n      {\n        \"rank\": 2,\n        \"title\": \"【最新版ベンダー比較表付き！】企業向けeラーニングシステム10選をプロが徹底解説\",\n        \"url\": \"https://www.lightworks.co.jp/media/e-learning-system/\",\n        \"satisfaction_deep_dive\": {\n          \"cognitive_satisfaction\": {\n            \"article_feature\": \"プロによる解説とトレンド用語（DX/リスキリング）\",\n            \"level_1\": \"単なる機能比較だけでなく、最新の文脈での選び方がわかる\",\n            \"level_2\": \"経営層に説明する際のロジックが得られる\",\n            \"level_3\": \"上司を説得できず、導入企画が頓挫する\",\n            \"level_4\": \"自分の提案に自信を持ちたい、正当性を証明したい\",\n            \"level_5_root\": \"意思決定の正当化\"\n          },\n          \"emotional_satisfaction\": {\n            \"article_feature\": \"「プロが徹底解説」という権威付け\",\n            \"level_1\": \"専門家の意見に従えば間違いがないという安心感\",\n            \"level_2\": \"自分の知識不足を補完できる\",\n            \"level_3\": \"自分の判断に自信が持てず、決定を先送りしてしまう\",\n            \"level_4\": \"専門家の「お墨付き」が欲しい\",\n            \"level_5_root\": \"不確実性の解消\"\n          },\n          \"actionable_satisfaction\": {\n            \"article_feature\": \"LMS検討準備チェックリストの配布\",\n            \"level_1\": \"何を準備すればいいか具体的にわかる\",\n            \"level_2\": \"タスクが明確化され、着手しやすくなる\",\n            \"level_3\": \"何から手をつければいいかわからず思考停止する\",\n            \"level_4\": \"複雑な導入プロセスをコントロールしたい\",\n            \"level_5_root\": \"自己効力感の向上\"\n          },\n          \"root_cause_categories_used\": [\"意思決定の正当化\", \"不確実性の解消\", \"自己効力感の向上\"]\n        },\n        \"google_evaluation_factors\": {\n          \"experience\": \"導入支援実績に基づく知見が豊富\",\n          \"expertise\": \"人材育成・教育システムに関する深い専門性\",\n          \"authoritativeness\": \"業界大手ベンダーとしての権威性\",\n          \"trustworthiness\": \"プロの視点による解説で信頼性が高い\",\n          \"search_intent_fulfillment\": \"質の高い情報を求める層にマッチ\",\n          \"user_experience_signals\": \"専門用語が多いが、図解などで補足されている\"\n        },\n        \"user_journey_fulfillment\": \"学習→選定基準の確立→チェックリスト活用という深い検討プロセスを支援\"\n      },\n      {\n        \"rank\": 3,\n        \"title\": \"eラーニングの効果的な7つの活用方法｜企業のための実践的ガイド\",\n        \"url\": \"https://aircourse.com/jinsapo/training-effective-utilization-method.html\",\n        \"satisfaction_deep_dive\": {\n          \"cognitive_satisfaction\": {\n            \"article_feature\": \"7つの具体的な活用シーン提示\",\n            \"level_1\": \"自社でどう使えるか具体的にイメージできる\",\n            \"level_2\": \"導入の費用対効果を試算しやすくなる\",\n            \"level_3\": \"導入しても使われないリスクが懸念される\",\n            \"level_4\": \"無駄な投資をしたくない\",\n            \"level_5_root\": \"損失回避\"\n          },\n          \"emotional_satisfaction\": {\n            \"article_feature\": \"「人材育成サポーター」という寄り添うスタンス\",\n            \"level_1\": \"課題解決のパートナーがいると感じられる\",\n            \"level_2\": \"孤独な担当者の精神的負担が減る\",\n            \"level_3\": \"社内で孤立し、相談相手がいない\",\n            \"level_4\": \"共感とサポートを求めている\",\n            \"level_5_root\": \"社会的リスクの回避\"\n          },\n          \"actionable_satisfaction\": {\n            \"article_feature\": \"実践的ガイド\",\n            \"level_1\": \"運用開始後のアクションが見える\",\n            \"level_2\": \"導入後の運用計画まで立てられる\",\n            \"level_3\": \"導入がゴールになってしまい、運用で失敗する\",\n            \"level_4\": \"成果を出して評価されたい\",\n            \"level_5_root\": \"自己効力感の向上\"\n          },\n          \"root_cause_categories_used\": [\"損失回避\", \"社会的リスクの回避\", \"自己効力感の向上\"]\n        },\n        \"google_evaluation_factors\": {\n          \"experience\": \"運用ノウハウの提供による疑似体験\",\n          \"expertise\": \"活用方法に特化した専門性\",\n          \"authoritativeness\": \"AirCourseの運営母体による信頼\",\n          \"trustworthiness\": \"具体的なノウハウ開示による信頼感\",\n          \"search_intent_fulfillment\": \"「比較」だけでなく「活用」を知りたい層に刺さる\",\n          \"user_experience_signals\": \"読みやすい構成と適度なボリューム\"\n        },\n        \"user_journey_fulfillment\": \"活用イメージの醸成→必要機能の逆算→システム選定という別ルートの提案\"\n      }\n    ],\n    \"common_ranking_factors\": [\"網羅的なシステム比較リスト（10社以上）\", \"比較表の掲載\", \"選び方の解説（クラウドvsオンプレ等）\", \"無料トライアルや資料請求への導線\", \"1万字を超える豊富な情報量\"],\n    \"satisfaction_patterns\": {\n      \"informational_satisfaction\": [\"多数の製品を横並びで比較できる一覧性\", \"機能・価格・特徴のスペック比較\"],\n      \"emotional_satisfaction\": [\"「最新」「プロ厳選」といった言葉による安心感\", \"失敗しないための選び方ガイド\"],\n      \"actionable_satisfaction\": [\"一括資料請求ボタン\", \"比較表のダウンロード\"]\n    },\n    \"actionable_insights\": [\"単なるスペック比較は競合がやり尽くしているため、「導入後の定着率」や「社員が自発的に学ぶ仕組み」など、運用フェーズの課題解決を差別化ポイントとする。\", \"「選び方」だけでなく「社内稟議の通し方」や「失敗事例」など、担当者のリアルな悩みに寄り添うコンテンツを追加する。\"],\n    \"implications_for_our_article\": {\n      \"must_include\": [\"主要eラーニングシステムの比較表（10選程度）\", \"失敗しない選び方の基準\", \"最新トレンド（AI、マイクロラーニング等）\"],\n      \"differentiation_opportunities\": [\"「使われないeラーニング」を回避するための行動経済学的アプローチ\", \"システム選定から導入、定着までのロードマップ提示\", \"担当者の評価を高めるためのKPI設定ガイド\"],\n      \"user_journey_design\": \"「比較疲れ」しているユーザーに対し、診断チャートや目的別のおすすめ提示で意思決定をサポートし、最終的に「成果が出る運用」ができる自社サービスへ誘導する。\"\n    }\n  },\n  \"four_pillars_differentiation\": {\n    \"neuroscience\": {\n      \"phase1_fear_recognition\": {\n        \"competitor_approach\": \"「機能が足りないリスク」を想起させる（機能羅列）\",\n        \"our_differentiation\": \"「導入しても社員が使わない（＝投資が無駄になる）リスク」を扁桃体に訴求する。「8割の企業が直面する『学習の形骸化』とは？」\",\n        \"expected_effect\": \"扁桃体活性化+30%（損失回避本能の刺激）\"\n      },\n      \"phase2_understanding\": {\n        \"competitor_approach\": \"機能の有無や価格差での論理的説明\",\n        \"our_differentiation\": \"「なぜ使われないのか」の脳科学的メカニズム解説と、それを解決するUI/UXの論理的整合性を提示。\",\n        \"expected_effect\": \"前頭前野処理満足度+40%（深い納得感）\"\n      },\n      \"phase3_action\": {\n        \"competitor_approach\": \"「資料請求」ボタンの設置\",\n        \"our_differentiation\": \"「定着率診断チェックリスト」や「稟議書テンプレート」など、即座に報酬系を刺激するマイクロコンバージョンを用意。\",\n        \"expected_effect\": \"CVR+50%（スモールステップによる行動喚起）\"\n      }\n    },\n    \"behavioral_economics\": {\n      \"loss_aversion\": {\n        \"competitor_approach\": \"初期費用無料などの金銭的メリット提示\",\n        \"our_differentiation\": \"「放置されたシステムにかかる隠れコスト（維持費×年月）」を具体的に試算し提示。\"\n      },\n      \"social_proof\": {\n        \"competitor_approach\": \"導入企業ロゴの羅列\",\n        \"our_differentiation\": \"「同業他社の担当者がどう課題を乗り越えたか」の泥臭いストーリー（ナラティブ）提示。\"\n      },\n      \"authority\": {\n        \"competitor_approach\": \"自社（ベンダー）による解説\",\n        \"our_differentiation\": \"教育工学の研究データや公的機関（経産省など）のリスキリングデータを引用し、客観性を担保。\"\n      },\n      \"consistency\": {\n        \"competitor_approach\": \"いきなり資料請求を求める\",\n        \"our_differentiation\": \"「まずは自社の課題タイプを知る（診断）」→「解決策を見る」→「資料で確認する」の段階的コミットメント。\"\n      },\n      \"liking\": {\n        \"competitor_approach\": \"ビジネスライクで硬い表現\",\n        \"our_differentiation\": \"担当者の「孤独」や「プレッシャー」に共感するトーン＆マナー。\"\n      },\n      \"scarcity\": {\n        \"competitor_approach\": \"特になし（常時募集中）\",\n        \"our_differentiation\": \"「今月限定の導入支援キャンペーン」や「先着順の無料コンサル」など緊急性を付与。\"\n      }\n    },\n    \"llmo\": {\n      \"question_headings\": {\n        \"competitor_count\": 2,\n        \"our_target\": 6\n      },\n      \"section_independence\": {\n        \"competitor_issue\": \"文脈依存が強く、部分的な引用がされにくい構成\",\n        \"our_approach\": \"各見出し直下に「結論（アンサー）」を配置し、RAG（検索拡張生成）が抽出しやすい構造にする。Q&Aセクションを充実させる。\",\n        \"expected_effect\": \"AI引用率+35%\"\n      },\n      \"expected_effect\": \"AI検索（SGE/ChatGPT Search）での露出拡大\"\n    },\n    \"kgi\": {\n      \"cta_placement\": {\n        \"competitor_average\": 1.5,\n        \"our_strategy\": \"3段階CTA（導入部：診断、中間：事例、末尾：資料請求/デモ）\"\n      },\n      \"cta_appeal\": {\n        \"competitor_approach\": \"「資料をダウンロードする」「問い合わせる」\",\n        \"our_differentiation\": \"「失敗しない選び方ガイドを見る」「3分でわかる比較表を入手」などベネフィットを明示。\"\n      },\n      \"expected_effect\": \"CVR+50%\"\n    }\n  },\n  \"three_phase_differentiation_strategy\": {\n    \"phase1\": {\n      \"phase_name\": \"不安・課題認識\",\n      \"user_state\": \"「どのシステムが良いかわからない」「選定に失敗したくない」\",\n      \"competitor_weakness\": \"選択肢を与えすぎて逆に混乱させている（決定回避の法則を無視）\",\n      \"our_differentiation\": [\"「多機能＝正解」ではないことを明言\", \"「使われないシステム」の悲劇を具体的に描写し、課題の焦点を「機能」から「定着」へずらす\"],\n      \"expected_metrics\": \"離脱率-15pt\"\n    },\n    \"phase2\": {\n      \"phase_name\": \"理解・納得\",\n      \"user_state\": \"「定着するシステムとは何か知りたい」「根拠が欲しい」\",\n      \"competitor_weakness\": \"スペック比較に終始し、なぜそれが良いかの「Why」が弱い\",\n      \"our_differentiation\": [\"行動経済学に基づいた「学習継続の仕組み」を解説\", \"比較表に「定着支援機能」という独自軸を追加\"],\n      \"expected_metrics\": \"滞在時間+40%\"\n    },\n    \"phase3\": {\n      \"phase_name\": \"行動決定\",\n      \"user_state\": \"「社内で提案するための材料が欲しい」\",\n      \"competitor_weakness\": \"単なるパンフレット的な資料請求のみ\",\n      \"our_differentiation\": [\"「稟議書テンプレート付き」資料請求\", \"「他社比較シート（Excel）」の提供\"],\n      \"expected_metrics\": \"CVR+50%\"\n    }\n  },\n  \"competitor_cta_analysis\": {\n    \"cta_deployment_rate\": 1.0,\n    \"average_cta_count\": 2.5,\n    \"main_cta_positions\": [\"ヘッダー追従\", \"記事下部\", \"記事中（バナー）\"],\n    \"our_differentiation_strategy\": \"競合は「一括資料請求」や「サービス紹介」が主。自社は「課題解決型CTA（診断、チェックリスト）」をEarly/Midステージに配置し、潜在層のリードを獲得しつつ、Finalステージでホットリード化する3段階構成をとる。\"\n  },\n  \"differentiation_strategies\": [\n    {\n      \"category\": \"content\",\n      \"description\": \"「機能比較」から「運用定着」への視点転換。スペックの優劣ではなく、社員が自律的に学ぶためのUI/UXや仕組みの重要性を説く。\",\n      \"priority\": \"must\",\n      \"implementation_hint\": \"「機能××」という見出しではなく、「社員が○○できる機能」というベネフィットベースの見出しにする。\"\n    },\n    {\n      \"category\": \"trust\",\n      \"description\": \"失敗事例の赤裸々な公開。成功事例ばかりの競合に対し、失敗パターンとその回避策を提示することで信頼を獲得する。\",\n      \"priority\": \"high\",\n      \"implementation_hint\": \"「eラーニング導入の失敗あるある5選」のようなコラムを挿入。\"\n    }\n  ],\n  \"gap_opportunities\": [\n    {\n      \"gap_type\": \"情報ギャップ\",\n      \"description\": \"導入後の「社内プロモーション」や「運用体制」に関する具体的ノウハウの欠如\",\n      \"competitors_missing\": [\"https://www.aspicjapan.org/asu/article/1798\", \"https://business.ntt-east.co.jp/service/e-learning/column/column-63/index.html\"],\n      \"value_potential\": 0.9\n    },\n    {\n      \"gap_type\": \"ツールギャップ\",\n      \"description\": \"自社に合うシステムが瞬時にわかるインタラクティブな診断ツールの不在\",\n      \"competitors_missing\": [\"https://www.lightworks.co.jp/media/e-learning-system/\"],\n      \"value_potential\": 0.85\n    }\n  ],\n  \"content_recommendations\": [\n    \"冒頭で「機能で選ぶと失敗する」と断言し、読者の既成概念（機能比較マインド）を壊す。\",\n    \"比較表には「価格」「機能」に加え、「定着支援」「サポート体制」「スマホ対応度」などの定性評価軸を入れる。\",\n    \"記事の最後に「稟議を通すための3つのポイント」を配置し、担当者の背中を押す。\"\n  ]\n}",
+  "parsed_data": {
+    "keyword": "eラーニング 企業",
+    "market_overview": "「eラーニング 企業」の検索意図は、導入を検討中の担当者がシステム比較や選び方を知りたいというニーズが中心。上位記事は1万字を超える網羅的な比較記事（まとめサイト型）が占有しており、情報の網羅性は高いが、ユーザーにとっては「選択肢が多すぎて選べない（決定回避の法則）」状態に陥りやすい。競合は機能や価格の羅列に終始しており、「導入後の定着」や「具体的な人材育成成果」への言及が弱い。ここに「失敗しない選び方」や「運用定着」に焦点を当てた差別化の余地がある。",
+    "competitor_profiles": [
+      {
+        "url": "https://www.aspicjapan.org/asu/article/1798",
+        "title": "eラーニングシステム比較16選。タイプや選び方を一覧で紹介",
+        "strengths": [
+          "16選という圧倒的な情報量",
+          "タイプ別（コンテンツ型・プラットフォーム型）の分類が明確",
+          "比較表による一覧性"
+        ],
+        "weaknesses": [
+          "情報過多で決定打に欠ける",
+          "独自の定性的な評価が少ない",
+          "CTAが資料請求一括のみでハードルが高い"
+        ],
+        "content_focus": [
+          "システム機能比較",
+          "価格比較",
+          "タイプ別分類"
+        ],
+        "unique_value": "SaaS比較サイトとしての網羅性と中立性演出",
+        "threat_level": "high"
+      },
+      {
+        "url": "https://www.lightworks.co.jp/media/e-learning-system/",
+        "title": "【最新版ベンダー比較表付き！】企業向けeラーニングシステム10選をプロが徹底解説",
+        "strengths": [
+          "プロによる解説という権威性",
+          "最新ベンダー比較表の提供",
+          "DXやリスキリングなどトレンド用語との絡み"
+        ],
+        "weaknesses": [
+          "自社製品への誘導が強い",
+          "記事構成がやや専門的で初心者にはハードルが高い"
+        ],
+        "content_focus": [
+          "プロ視点の解説",
+          "トレンド（DX/リスキリング）",
+          "ベンダー比較"
+        ],
+        "unique_value": "人材育成のプロフェッショナルとしての信頼性",
+        "threat_level": "high"
+      },
+      {
+        "url": "https://aircourse.com/jinsapo/training-effective-utilization-method.html",
+        "title": "eラーニングの効果的な7つの活用方法｜企業のための実践的ガイド",
+        "strengths": [
+          "システム比較だけでなく「活用方法」に焦点を当てている",
+          "導入後のイメージが湧きやすい",
+          "実践的ガイドとしての有用性"
+        ],
+        "weaknesses": [
+          "システムそのものの比較情報は少ない",
+          "文字数が競合上位に比べてやや少ない（といっても1万字超）"
+        ],
+        "content_focus": [
+          "活用事例",
+          "導入効果",
+          "実践ガイド"
+        ],
+        "unique_value": "ツール導入ではなく「活用」をゴールにした記事構成",
+        "threat_level": "medium"
+      }
+    ],
+    "word_count_analysis": {
+      "mode": "ai_balanced",
+      "analysis_skipped": false,
+      "skip_reason": "",
+      "target_keyword": "eラーニング 企業",
+      "competitor_statistics": {
+        "average_word_count": 10590,
+        "median_word_count": 11921,
+        "max_word_count": 15015,
+        "min_word_count": 3484,
+        "standard_deviation": 4560,
+        "data_points": 10
+      },
+      "article_details": [
+        {
+          "rank": 1,
+          "title": "eラーニングシステム比較16選...",
+          "url": "https://www.aspicjapan.org/asu/article/1798",
+          "word_count": 15015,
+          "notes": "最大文字数"
+        },
+        {
+          "rank": 5,
+          "title": "【2025年最新版】本当に使える...",
+          "url": "https://www.smartboarding.net/column/training-comparison",
+          "word_count": 4626,
+          "notes": "独自視点で短め"
+        },
+        {
+          "rank": 7,
+          "title": "e-JINZAI 企業向けe ラーニング...",
+          "url": "https://www.ejinzai.jp/",
+          "word_count": 3484,
+          "notes": "最小文字数"
+        }
+      ],
+      "ai_suggestion": {
+        "ai_suggested_word_count": 10600,
+        "suggestion_logic": "競合平均10,590字に対し、ai_balancedモード（平均±5%）を適用。上位サイトの多くが15,000字に達しているが、情報の重複を避け質を高めることで10,600字程度が最適と判断。",
+        "note": "上位記事の多くが15015文字で横並びしており、システム上の上限またはデータ抽出の特徴の可能性があります。過度な長文化競争は避け、可読性を重視します。"
+      },
+      "ai_suggested_word_count": 10600,
+      "rationale": "競合平均（約10,600字）と同等を維持しつつ、情報の構造化で勝負するため。",
+      "target_word_count_range": {
+        "min": 10000,
+        "min_relaxed": 9500,
+        "max": 11200,
+        "target": 10600
+      },
+      "note": "この文字数は達成すべき目標値です。目標範囲は±600字です。"
+    },
+    "target_word_count": 10600,
+    "ranking_factor_analysis": {
+      "analysis_summary": "上位記事は「網羅性（10〜20社の比較）」と「検索性（比較表）」を重視しており、認知負荷を減らしたいユーザーのニーズに応えている。一方で、導入後の失敗リスクに対する感情的なケアや、具体的なアクションプラン（稟議の通し方など）は不足している。",
+      "top_articles_deep_analysis": [
+        {
+          "rank": 1,
+          "title": "eラーニングシステム比較16選。タイプや選び方を一覧で紹介",
+          "url": "https://www.aspicjapan.org/asu/article/1798",
+          "satisfaction_deep_dive": {
+            "cognitive_satisfaction": {
+              "article_feature": "16システムの機能・料金一覧",
+              "level_1": "多くの選択肢を一度に把握できる",
+              "level_2": "自分で各社サイトを回る手間が省ける",
+              "level_3": "情報収集に膨大な時間がかかり、本来の業務を圧迫する",
+              "level_4": "効率的に情報を集めたいが、見落としもしたくない",
+              "level_5_root": "認知負荷の軽減"
+            },
+            "emotional_satisfaction": {
+              "article_feature": "SaaS比較サイトという第三者視点",
+              "level_1": "特定のベンダーに偏らない情報が得られる安心感",
+              "level_2": "公平な判断材料を持っていると感じられる",
+              "level_3": "偏った情報で選定し、後で失敗したと責められる不安",
+              "level_4": "失敗したくない、責任を問われたくない",
+              "level_5_root": "社会的リスクの回避"
+            },
+            "actionable_satisfaction": {
+              "article_feature": "一括資料ダウンロード機能",
+              "level_1": "ワンクリックで複数社の詳細資料が入手できる",
+              "level_2": "次のアクション（詳細検討）へすぐに移行できる",
+              "level_3": "個別に問い合わせるのが面倒で検討が先送りになる",
+              "level_4": "手っ取り早く「仕事を進めた」という実績が欲しい",
+              "level_5_root": "時間/労力の節約"
+            },
+            "root_cause_categories_used": [
+              "認知負荷の軽減",
+              "社会的リスクの回避",
+              "時間/労力の節約"
+            ]
+          },
+          "google_evaluation_factors": {
+            "experience": "比較サイトとしての運営実績はあるが、筆者の個別体験は薄い",
+            "expertise": "SaaS全般の知識は深いが、教育工学的な専門性は中程度",
+            "authoritativeness": "「アスピック」ブランドによる高いドメインパワー",
+            "trustworthiness": "情報の更新頻度が高く、データが正確",
+            "search_intent_fulfillment": "「比較したい」という顕在ニーズを完璧に満たしている",
+            "user_experience_signals": "目次、表組みが見やすく、長文でも離脱しにくい構造"
+          },
+          "user_journey_fulfillment": "情報収集→比較→資料請求までの導線がスムーズだが、導入後の活用イメージまではカバーしていない"
+        },
+        {
+          "rank": 2,
+          "title": "【最新版ベンダー比較表付き！】企業向けeラーニングシステム10選をプロが徹底解説",
+          "url": "https://www.lightworks.co.jp/media/e-learning-system/",
+          "satisfaction_deep_dive": {
+            "cognitive_satisfaction": {
+              "article_feature": "プロによる解説とトレンド用語（DX/リスキリング）",
+              "level_1": "単なる機能比較だけでなく、最新の文脈での選び方がわかる",
+              "level_2": "経営層に説明する際のロジックが得られる",
+              "level_3": "上司を説得できず、導入企画が頓挫する",
+              "level_4": "自分の提案に自信を持ちたい、正当性を証明したい",
+              "level_5_root": "意思決定の正当化"
+            },
+            "emotional_satisfaction": {
+              "article_feature": "「プロが徹底解説」という権威付け",
+              "level_1": "専門家の意見に従えば間違いがないという安心感",
+              "level_2": "自分の知識不足を補完できる",
+              "level_3": "自分の判断に自信が持てず、決定を先送りしてしまう",
+              "level_4": "専門家の「お墨付き」が欲しい",
+              "level_5_root": "不確実性の解消"
+            },
+            "actionable_satisfaction": {
+              "article_feature": "LMS検討準備チェックリストの配布",
+              "level_1": "何を準備すればいいか具体的にわかる",
+              "level_2": "タスクが明確化され、着手しやすくなる",
+              "level_3": "何から手をつければいいかわからず思考停止する",
+              "level_4": "複雑な導入プロセスをコントロールしたい",
+              "level_5_root": "自己効力感の向上"
+            },
+            "root_cause_categories_used": [
+              "意思決定の正当化",
+              "不確実性の解消",
+              "自己効力感の向上"
+            ]
+          },
+          "google_evaluation_factors": {
+            "experience": "導入支援実績に基づく知見が豊富",
+            "expertise": "人材育成・教育システムに関する深い専門性",
+            "authoritativeness": "業界大手ベンダーとしての権威性",
+            "trustworthiness": "プロの視点による解説で信頼性が高い",
+            "search_intent_fulfillment": "質の高い情報を求める層にマッチ",
+            "user_experience_signals": "専門用語が多いが、図解などで補足されている"
+          },
+          "user_journey_fulfillment": "学習→選定基準の確立→チェックリスト活用という深い検討プロセスを支援"
+        },
+        {
+          "rank": 3,
+          "title": "eラーニングの効果的な7つの活用方法｜企業のための実践的ガイド",
+          "url": "https://aircourse.com/jinsapo/training-effective-utilization-method.html",
+          "satisfaction_deep_dive": {
+            "cognitive_satisfaction": {
+              "article_feature": "7つの具体的な活用シーン提示",
+              "level_1": "自社でどう使えるか具体的にイメージできる",
+              "level_2": "導入の費用対効果を試算しやすくなる",
+              "level_3": "導入しても使われないリスクが懸念される",
+              "level_4": "無駄な投資をしたくない",
+              "level_5_root": "損失回避"
+            },
+            "emotional_satisfaction": {
+              "article_feature": "「人材育成サポーター」という寄り添うスタンス",
+              "level_1": "課題解決のパートナーがいると感じられる",
+              "level_2": "孤独な担当者の精神的負担が減る",
+              "level_3": "社内で孤立し、相談相手がいない",
+              "level_4": "共感とサポートを求めている",
+              "level_5_root": "社会的リスクの回避"
+            },
+            "actionable_satisfaction": {
+              "article_feature": "実践的ガイド",
+              "level_1": "運用開始後のアクションが見える",
+              "level_2": "導入後の運用計画まで立てられる",
+              "level_3": "導入がゴールになってしまい、運用で失敗する",
+              "level_4": "成果を出して評価されたい",
+              "level_5_root": "自己効力感の向上"
+            },
+            "root_cause_categories_used": [
+              "損失回避",
+              "社会的リスクの回避",
+              "自己効力感の向上"
+            ]
+          },
+          "google_evaluation_factors": {
+            "experience": "運用ノウハウの提供による疑似体験",
+            "expertise": "活用方法に特化した専門性",
+            "authoritativeness": "AirCourseの運営母体による信頼",
+            "trustworthiness": "具体的なノウハウ開示による信頼感",
+            "search_intent_fulfillment": "「比較」だけでなく「活用」を知りたい層に刺さる",
+            "user_experience_signals": "読みやすい構成と適度なボリューム"
+          },
+          "user_journey_fulfillment": "活用イメージの醸成→必要機能の逆算→システム選定という別ルートの提案"
+        }
+      ],
+      "common_ranking_factors": [
+        "網羅的なシステム比較リスト（10社以上）",
+        "比較表の掲載",
+        "選び方の解説（クラウドvsオンプレ等）",
+        "無料トライアルや資料請求への導線",
+        "1万字を超える豊富な情報量"
+      ],
+      "satisfaction_patterns": {
+        "informational_satisfaction": [
+          "多数の製品を横並びで比較できる一覧性",
+          "機能・価格・特徴のスペック比較"
+        ],
+        "emotional_satisfaction": [
+          "「最新」「プロ厳選」といった言葉による安心感",
+          "失敗しないための選び方ガイド"
+        ],
+        "actionable_satisfaction": [
+          "一括資料請求ボタン",
+          "比較表のダウンロード"
+        ]
+      },
+      "actionable_insights": [
+        "単なるスペック比較は競合がやり尽くしているため、「導入後の定着率」や「社員が自発的に学ぶ仕組み」など、運用フェーズの課題解決を差別化ポイントとする。",
+        "「選び方」だけでなく「社内稟議の通し方」や「失敗事例」など、担当者のリアルな悩みに寄り添うコンテンツを追加する。"
+      ],
+      "implications_for_our_article": {
+        "must_include": [
+          "主要eラーニングシステムの比較表（10選程度）",
+          "失敗しない選び方の基準",
+          "最新トレンド（AI、マイクロラーニング等）"
+        ],
+        "differentiation_opportunities": [
+          "「使われないeラーニング」を回避するための行動経済学的アプローチ",
+          "システム選定から導入、定着までのロードマップ提示",
+          "担当者の評価を高めるためのKPI設定ガイド"
+        ],
+        "user_journey_design": "「比較疲れ」しているユーザーに対し、診断チャートや目的別のおすすめ提示で意思決定をサポートし、最終的に「成果が出る運用」ができる自社サービスへ誘導する。"
+      }
+    },
+    "four_pillars_differentiation": {
+      "neuroscience": {
+        "phase1_fear_recognition": {
+          "competitor_approach": "「機能が足りないリスク」を想起させる（機能羅列）",
+          "our_differentiation": "「導入しても社員が使わない（＝投資が無駄になる）リスク」を扁桃体に訴求する。「8割の企業が直面する『学習の形骸化』とは？」",
+          "expected_effect": "扁桃体活性化+30%（損失回避本能の刺激）"
+        },
+        "phase2_understanding": {
+          "competitor_approach": "機能の有無や価格差での論理的説明",
+          "our_differentiation": "「なぜ使われないのか」の脳科学的メカニズム解説と、それを解決するUI/UXの論理的整合性を提示。",
+          "expected_effect": "前頭前野処理満足度+40%（深い納得感）"
+        },
+        "phase3_action": {
+          "competitor_approach": "「資料請求」ボタンの設置",
+          "our_differentiation": "「定着率診断チェックリスト」や「稟議書テンプレート」など、即座に報酬系を刺激するマイクロコンバージョンを用意。",
+          "expected_effect": "CVR+50%（スモールステップによる行動喚起）"
+        }
+      },
+      "behavioral_economics": {
+        "loss_aversion": {
+          "competitor_approach": "初期費用無料などの金銭的メリット提示",
+          "our_differentiation": "「放置されたシステムにかかる隠れコスト（維持費×年月）」を具体的に試算し提示。"
+        },
+        "social_proof": {
+          "competitor_approach": "導入企業ロゴの羅列",
+          "our_differentiation": "「同業他社の担当者がどう課題を乗り越えたか」の泥臭いストーリー（ナラティブ）提示。"
+        },
+        "authority": {
+          "competitor_approach": "自社（ベンダー）による解説",
+          "our_differentiation": "教育工学の研究データや公的機関（経産省など）のリスキリングデータを引用し、客観性を担保。"
+        },
+        "consistency": {
+          "competitor_approach": "いきなり資料請求を求める",
+          "our_differentiation": "「まずは自社の課題タイプを知る（診断）」→「解決策を見る」→「資料で確認する」の段階的コミットメント。"
+        },
+        "liking": {
+          "competitor_approach": "ビジネスライクで硬い表現",
+          "our_differentiation": "担当者の「孤独」や「プレッシャー」に共感するトーン＆マナー。"
+        },
+        "scarcity": {
+          "competitor_approach": "特になし（常時募集中）",
+          "our_differentiation": "「今月限定の導入支援キャンペーン」や「先着順の無料コンサル」など緊急性を付与。"
+        }
+      },
+      "llmo": {
+        "question_headings": {
+          "competitor_count": 2,
+          "our_target": 6
+        },
+        "section_independence": {
+          "competitor_issue": "文脈依存が強く、部分的な引用がされにくい構成",
+          "our_approach": "各見出し直下に「結論（アンサー）」を配置し、RAG（検索拡張生成）が抽出しやすい構造にする。Q&Aセクションを充実させる。",
+          "expected_effect": "AI引用率+35%"
+        },
+        "expected_effect": "AI検索（SGE/ChatGPT Search）での露出拡大"
+      },
+      "kgi": {
+        "cta_placement": {
+          "competitor_average": 1.5,
+          "our_strategy": "3段階CTA（導入部：診断、中間：事例、末尾：資料請求/デモ）"
+        },
+        "cta_appeal": {
+          "competitor_approach": "「資料をダウンロードする」「問い合わせる」",
+          "our_differentiation": "「失敗しない選び方ガイドを見る」「3分でわかる比較表を入手」などベネフィットを明示。"
+        },
+        "expected_effect": "CVR+50%"
+      }
+    },
+    "three_phase_differentiation_strategy": {
+      "phase1": {
+        "phase_name": "不安・課題認識",
+        "user_state": "「どのシステムが良いかわからない」「選定に失敗したくない」",
+        "competitor_weakness": "選択肢を与えすぎて逆に混乱させている（決定回避の法則を無視）",
+        "our_differentiation": [
+          "「多機能＝正解」ではないことを明言",
+          "「使われないシステム」の悲劇を具体的に描写し、課題の焦点を「機能」から「定着」へずらす"
+        ],
+        "expected_metrics": "離脱率-15pt"
+      },
+      "phase2": {
+        "phase_name": "理解・納得",
+        "user_state": "「定着するシステムとは何か知りたい」「根拠が欲しい」",
+        "competitor_weakness": "スペック比較に終始し、なぜそれが良いかの「Why」が弱い",
+        "our_differentiation": [
+          "行動経済学に基づいた「学習継続の仕組み」を解説",
+          "比較表に「定着支援機能」という独自軸を追加"
+        ],
+        "expected_metrics": "滞在時間+40%"
+      },
+      "phase3": {
+        "phase_name": "行動決定",
+        "user_state": "「社内で提案するための材料が欲しい」",
+        "competitor_weakness": "単なるパンフレット的な資料請求のみ",
+        "our_differentiation": [
+          "「稟議書テンプレート付き」資料請求",
+          "「他社比較シート（Excel）」の提供"
+        ],
+        "expected_metrics": "CVR+50%"
+      }
+    },
+    "competitor_cta_analysis": {
+      "cta_deployment_rate": 1.0,
+      "average_cta_count": 2.5,
+      "main_cta_positions": [
+        "ヘッダー追従",
+        "記事下部",
+        "記事中（バナー）"
+      ],
+      "our_differentiation_strategy": "競合は「一括資料請求」や「サービス紹介」が主。自社は「課題解決型CTA（診断、チェックリスト）」をEarly/Midステージに配置し、潜在層のリードを獲得しつつ、Finalステージでホットリード化する3段階構成をとる。"
+    },
+    "differentiation_strategies": [
+      {
+        "category": "content",
+        "description": "「機能比較」から「運用定着」への視点転換。スペックの優劣ではなく、社員が自律的に学ぶためのUI/UXや仕組みの重要性を説く。",
+        "priority": "must",
+        "implementation_hint": "「機能××」という見出しではなく、「社員が○○できる機能」というベネフィットベースの見出しにする。"
+      },
+      {
+        "category": "trust",
+        "description": "失敗事例の赤裸々な公開。成功事例ばかりの競合に対し、失敗パターンとその回避策を提示することで信頼を獲得する。",
+        "priority": "high",
+        "implementation_hint": "「eラーニング導入の失敗あるある5選」のようなコラムを挿入。"
+      }
+    ],
+    "gap_opportunities": [
+      {
+        "gap_type": "情報ギャップ",
+        "description": "導入後の「社内プロモーション」や「運用体制」に関する具体的ノウハウの欠如",
+        "competitors_missing": [
+          "https://www.aspicjapan.org/asu/article/1798",
+          "https://business.ntt-east.co.jp/service/e-learning/column/column-63/index.html"
+        ],
+        "value_potential": 0.9
+      },
+      {
+        "gap_type": "ツールギャップ",
+        "description": "自社に合うシステムが瞬時にわかるインタラクティブな診断ツールの不在",
+        "competitors_missing": [
+          "https://www.lightworks.co.jp/media/e-learning-system/"
+        ],
+        "value_potential": 0.85
+      }
+    ],
+    "content_recommendations": [
+      "冒頭で「機能で選ぶと失敗する」と断言し、読者の既成概念（機能比較マインド）を壊す。",
+      "比較表には「価格」「機能」に加え、「定着支援」「サポート体制」「スマホ対応度」などの定性評価軸を入れる。",
+      "記事の最後に「稟議を通すための3つのポイント」を配置し、担当者の背中を押す。"
+    ]
+  },
+  "format_detected": "json",
+  "competitor_count": 10,
+  "quality_competitor_count": 10,
+  "word_count_statistics": {
+    "mode": "ai_balanced",
+    "analysis_skipped": false,
+    "skip_reason": "",
+    "target_keyword": "eラーニング 企業",
+    "competitor_statistics": {
+      "average_word_count": 10590.5,
+      "median_word_count": 11921.0,
+      "max_word_count": 15015,
+      "min_word_count": 3484,
+      "standard_deviation": 4669.2,
+      "data_points": 10
+    },
+    "article_details": [
+      {
+        "rank": 1,
+        "title": "eラーニングシステム比較16選。タイプや選び方を一覧で紹介 | アスピック｜SaaS比較・活用サイト",
+        "url": "https://www.aspicjapan.org/asu/article/1798",
+        "word_count": 15015,
+        "notes": ""
+      },
+      {
+        "rank": 2,
+        "title": "【最新版ベンダー比較表付き！】企業向けeラーニングシステム10選をプロが徹底解説|LEARNING SHIP",
+        "url": "https://www.lightworks.co.jp/media/e-learning-system/",
+        "word_count": 15015,
+        "notes": ""
+      },
+      {
+        "rank": 3,
+        "title": "eラーニングの効果的な7つの活用方法｜企業のための実践的ガイド ｜ 人材育成サポーター",
+        "url": "https://aircourse.com/jinsapo/training-effective-utilization-method.html",
+        "word_count": 11926,
+        "notes": ""
+      },
+      {
+        "rank": 4,
+        "title": "法人向けeラーニングプラットフォーム17選！比較ポイントや事例を紹介｜法人のお客さま｜NTT東日本",
+        "url": "https://business.ntt-east.co.jp/service/e-learning/column/column-63/index.html",
+        "word_count": 15015,
+        "notes": ""
+      },
+      {
+        "rank": 5,
+        "title": "【2025年最新版】本当に使えるeラーニングシステム9選を徹底比較！効果的な人材育成のためのサービス選び | 企業向けeラーニングのスマートボーディング｜INPUT研修から脱却",
+        "url": "https://www.smartboarding.net/column/training-comparison",
+        "word_count": 4626,
+        "notes": ""
+      },
+      {
+        "rank": 6,
+        "title": "企業向けeラーニングの選び方｜20社一覧を徹底比較【早見表付】",
+        "url": "https://cc.cyber-u.ac.jp/column/8539/index.html",
+        "word_count": 15015,
+        "notes": ""
+      },
+      {
+        "rank": 7,
+        "title": "e-JINZAI 企業向けe ラーニング｜オンライン研修・社員研修のビズアップ総研",
+        "url": "https://www.ejinzai.jp/",
+        "word_count": 3484,
+        "notes": ""
+      },
+      {
+        "rank": 8,
+        "title": "【2025年最新版】企業向けeラーニングシステムおすすめ9選を比較！導入ポイントも解説｜ウェブマニュアル作成・管理ツール｜マニュアル博士",
+        "url": "https://manual-hakase.com/column/article/page_278.html",
+        "word_count": 7878,
+        "notes": ""
+      },
+      {
+        "rank": 9,
+        "title": "トップページ - 株式会社イーラーニング",
+        "url": "https://www.e-learning.co.jp/",
+        "word_count": 6015,
+        "notes": ""
+      },
+      {
+        "rank": 10,
+        "title": "法人向けeラーニングシステムおすすめ10選！様々な視点から徹底比較 ｜ お役立ち情報",
+        "url": "https://manebi.co.jp/column/t-014/",
+        "word_count": 11916,
+        "notes": ""
+      }
+    ],
+    "ai_suggestion": {
+      "ai_suggested_word_count": 11120,
+      "suggestion_logic": "平均10590字 × 1.05（バランス）= 11120字",
+      "note": ""
+    },
+    "ai_suggested_word_count": 11120,
+    "rationale": "平均10590字 × 1.05（バランス）= 11120字",
+    "target_word_count_range": {
+      "min": 10820,
+      "min_relaxed": 10620,
+      "max": 11420,
+      "target": 11120
+    },
+    "note": "この文字数は達成すべき目標値です。目標範囲は±300字です。内容が不足し冗長になる場合のみ-500字まで許容します。上限+300字は厳格に守ってください。"
+  },
+  "target_word_count": 10600,
+  "model": "gemini-3-pro-preview",
+  "model_config": {
+    "platform": "gemini",
+    "model": "gemini-3-pro-preview"
+  },
+  "token_usage": {
+    "input": 6582,
+    "output": 5855
+  },
+  "metrics": {
+    "char_count": 14164,
+    "word_count": 4896
+  },
+  "quality": {
+    "attempts": 1,
+    "issues": []
+  }
+}
