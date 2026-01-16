@@ -1,0 +1,66 @@
+{
+  "step": "step0",
+  "keyword": "eラーニング 企業",
+  "analysis": "```json\n{\n  \"keyword\": \"eラーニング 企業\",\n  \"search_intent\": \"企業向けeラーニングサービスの導入検討、サービス比較、料金相場の調査、または社員研修の効率化・DX化に関する情報収集。具体的には「どのサービスが良いか」「費用はいくらか」「導入効果はどの程度か」を知りたいというCommercial（商業的）およびTransactional（取引）な意図が強い。\",\n  \"difficulty\": \"high\",\n  \"suggested_topics\": [\n    \"企業向けeラーニングサービス比較・おすすめランキング\",\n    \"eラーニング導入のメリット・デメリットと費用対効果\",\n    \"階層別（新入社員・管理職）や目的別（コンプライアンス・DX）の教材選び\",\n    \"LMS（学習管理システム）の機能比較と選び方\",\n    \"人材開発支援助成金の活用方法\"\n  ],\n  \"target_audience\": \"企業の人事・労務担当者、教育研修担当者、経営者・役員、部門責任者（DX推進室など）\"\n}\n```",
+  "search_intent": "企業向けeラーニングサービスの導入検討、サービス比較、料金相場の調査、または社員研修の効率化・DX化に関する情報収集。具体的には「どのサービスが良いか」「費用はいくらか」「導入効果はどの程度か」を知りたいというCommercial（商業的）およびTransactional（取引）な意図が強い。",
+  "difficulty_score": 5,
+  "recommended_angles": [],
+  "target_audience": "企業の人事・労務担当者、教育研修担当者、経営者・役員、部門責任者（DX推進室など）",
+  "content_type_suggestion": "",
+  "four_pillars_evaluation": null,
+  "article_strategy": null,
+  "word_count_config": {
+    "mode": "ai_balanced",
+    "manual_word_count": null,
+    "tolerance": {
+      "min_tolerance": -300,
+      "max_tolerance": 300
+    }
+  },
+  "cta_specification": {
+    "design_type": "staged",
+    "placements": {
+      "early": {
+        "position": 650,
+        "url": "",
+        "text": ""
+      },
+      "mid": {
+        "position": 2800,
+        "url": "",
+        "text": ""
+      },
+      "final": {
+        "position": "target_word_count - 500",
+        "url": "",
+        "text": ""
+      }
+    }
+  },
+  "search_volume": null,
+  "competition": null,
+  "model": "gemini-3-pro-preview",
+  "model_config": {
+    "platform": "gemini",
+    "model": "gemini-3-pro-preview"
+  },
+  "token_usage": {
+    "input": 110,
+    "output": 243
+  },
+  "metrics": {
+    "char_count": 490,
+    "word_count": 276
+  },
+  "quality": {
+    "issues": [],
+    "attempts": 1
+  },
+  "parse_result": {
+    "success": true,
+    "format_detected": "json",
+    "fixes_applied": [
+      "code_block_removed"
+    ]
+  }
+}
