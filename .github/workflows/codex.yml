@@ -40,6 +40,10 @@ jobs:
         with:
           fetch-depth: 0
 
+      # Workaround for codex-action issue #55: Create .codex directory
+      - name: Prepare Codex home directory
+        run: mkdir -p ~/.codex
+
       - name: Run Codex
         id: run_codex
         uses: openai/codex-action@v1
