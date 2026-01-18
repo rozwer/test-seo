@@ -1,10 +1,10 @@
-# Codex Action Workflow
+# Codex Workflow
 #
-# This workflow enables Codex to automatically edit files when @codex is mentioned
-# in GitHub Issues or PR comments.
+# This workflow enables Codex to automatically respond to @codex mentions
+# in GitHub Issues or PR comments using the Codex CLI directly.
 #
 # Requirements:
-# - OPENAI_API_KEY must be set in repository secrets (for Codex)
+# - OPENAI_API_KEY must be set in repository secrets
 
 name: Codex
 
@@ -29,10 +29,6 @@ jobs:
       contents: write
       issues: write
       pull-requests: write
-      id-token: write
-
-    outputs:
-      final_message: ${{ steps.run_codex.outputs.final-message }}
 
     steps:
       - name: Checkout repository
@@ -40,44 +36,66 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Workaround for codex-action issue #55: Create .codex directory
-      - name: Prepare Codex home directory
-        run: mkdir -p ~/.codex
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Codex CLI
+        run: npm install -g @openai/codex
+
+      - name: Extract prompt
+        id: extract_prompt
+        run: |
+          if [ "${{ github.event_name }}" = "issues" ]; then
+            PROMPT="${{ github.event.issue.body }}"
+          elif [ "${{ github.event_name }}" = "issue_comment" ]; then
+            PROMPT="${{ github.event.comment.body }}"
+          else
+            PROMPT="${{ github.event.comment.body }}"
+          fi
+          # Remove @codex mention from prompt
+          PROMPT=$(echo "$PROMPT" | sed 's/@codex//g')
+          # Save to file to handle multiline
+          echo "$PROMPT" > /tmp/prompt.txt
 
       - name: Run Codex
         id: run_codex
-        uses: openai/codex-action@v1
-        with:
-          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
-          prompt: |
-            This is a request from GitHub issue or comment.
-            Repository: ${{ github.repository }}
-
-            ${{ github.event_name == 'issues' && github.event.issue.body || '' }}
-            ${{ github.event_name == 'issue_comment' && github.event.comment.body || '' }}
-            ${{ github.event_name == 'pull_request_review_comment' && github.event.comment.body || '' }}
-
-  post_feedback:
-    runs-on: ubuntu-latest
-    needs: codex
-    if: needs.codex.outputs.final_message != ''
-    permissions:
-      issues: write
-      pull-requests: write
-    steps:
-      - name: Post Codex feedback
-        uses: actions/github-script@v7
         env:
-          CODEX_FINAL_MESSAGE: ${{ needs.codex.outputs.final_message }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          # Run codex exec with the prompt and capture output
+          PROMPT=$(cat /tmp/prompt.txt)
+          codex exec --full-auto -o /tmp/codex_output.txt "$PROMPT" || true
+          # Set output for next step
+          if [ -f /tmp/codex_output.txt ]; then
+            echo "output_file=/tmp/codex_output.txt" >> $GITHUB_OUTPUT
+            echo "has_output=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_output=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Post Codex feedback
+        if: steps.run_codex.outputs.has_output == 'true'
+        uses: actions/github-script@v7
         with:
           github-token: ${{ github.token }}
           script: |
+            const fs = require('fs');
+            const outputFile = '${{ steps.run_codex.outputs.output_file }}';
+            let message = '';
+            try {
+              message = fs.readFileSync(outputFile, 'utf8');
+            } catch (e) {
+              message = 'Codex completed but produced no output.';
+            }
+
             const issueNumber = context.payload.issue?.number || context.payload.pull_request?.number;
-            if (issueNumber) {
+            if (issueNumber && message.trim()) {
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: issueNumber,
-                body: process.env.CODEX_FINAL_MESSAGE,
+                body: '## Codex Response\n\n' + message,
               });
             }
