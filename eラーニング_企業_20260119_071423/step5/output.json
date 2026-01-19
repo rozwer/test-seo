@@ -1,0 +1,365 @@
+{
+  "step": "step5",
+  "keyword": "eラーニング 企業",
+  "search_queries": [
+    "厚生労働省 能力開発基本調査 企業研修",
+    "企業 eラーニング 導入率 実態調査 2024",
+    "eラーニング 導入効果 コスト削減 データ",
+    "企業研修 課題 アンケート 調査結果",
+    "LMS シェア 法人向け 比較 2024"
+  ],
+  "sources": [],
+  "invalid_sources": [
+    {
+      "url": "https://www.mhlw.go.jp/stf/houdou/newpage_00202.html",
+      "title": "令和6年度「能力開発基本調査」の結果を公表します",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/chousa/r1/index_00007.html",
+      "title": "雇用・労働「令和7年度能力開発基本調査」の実施について",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.jil.go.jp/institute/research/2025/257.html",
+      "title": "調査シリーズNo.257「人材育成と能力開発の現状と課題 ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.mhlw.go.jp/content/11801000/001548719.pdf",
+      "title": "令和6年度「能力開発基本調査」の結果について",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.j-cda.jp/notice/11462.php",
+      "title": "令和6年度「能力開発基本調査」の結果が公表されました",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.hj.sanno.ac.jp/research-report/202502/distance-elearning-usage-survey2025.html",
+      "title": "通信教育およびeラーニングの活用実態調査",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.hrpro.co.jp/press_detail.php?ccd=00493&press_no=62",
+      "title": "『通信教育およびeラーニングの活用実態調査』を発表",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://globis.co.jp/news/elearning/10591-2024-11-07/",
+      "title": "企業の約7割がデジタル人材育成を導入、一方で参加社員は2 ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://kyodonewsprwire.jp/release/202502254699",
+      "title": "『通信教育およびeラーニングの活用実態調査』の結果を発表",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://mic-r.co.jp/mr/03630/",
+      "title": "法人向け配信/OVP・eラーニングプラットフォームソリューション ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.lightworks.co.jp/media/e-learning-effectiveness/",
+      "title": "eラーニングの効果を成功事例をもとに解説！明確な評価で ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://manebi.co.jp/column/t-044/",
+      "title": "eラーニングで研修コストを削減する方法｜費用対効果を ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://etudes.jp/blog/training-cost-savings",
+      "title": "企業の研修コストを削減する方法とは？eラーニングの導入が ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.any-grab.co.jp/blog/elearning/analytics/N-071",
+      "title": "eラーニング導入で研修コストはどう変わる？費用対効果を検証",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://web.i-netschool.com/column/1327669_14555.html",
+      "title": "【事例あり】eラーニングの導入効果は？より効果を高める ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.riskmonster.co.jp/pressrelease/post-20042/",
+      "title": "研修担当者に聞いた「社員研修に関するアンケート」調査結果を ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://biz.athuman.com/kenshu_media/1353",
+      "title": "2024年の企業研修トレンドと今後の展望。人事・研修担当者 ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.keidanren.or.jp/policy/2020/008.pdf",
+      "title": "人材育成に関するアンケート調査結果 - 経団連",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://ldcube.jp/blog/trainer501",
+      "title": "【調査レポート速報！】「社内研修・研修内製化の実態と課題」 ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://jinjibu.jp/news/detl/23709/",
+      "title": "社内研修の課題調査",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.lightworks.co.jp/news/28374",
+      "title": "無料eBook「企業向けLMS徹底比較 2024年下期最新版」 ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://reskilling-navi.com/column/lms-2",
+      "title": "【2024年版】LMS（学習管理システム）比較41選！比較ポイント ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://www.lightworks.co.jp/media/lms-share/",
+      "title": "LMS市場のシェアとトレンドを解説！主要LMS比較と選び方 ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://hrzine.jp/article/detail/5666",
+      "title": "eラーニング・LMS徹底比較！ 主要製品スペック一覧 2024",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000082.000055281.html",
+      "title": "無料eBook「企業向けLMS徹底比較 2024年上期最新版」 ...",
+      "source_type": "other",
+      "excerpt": "",
+      "credibility_score": 0.5,
+      "verified": false,
+      "phase_alignment": "phase2_understanding",
+      "freshness_score": 0.5,
+      "data_points": [],
+      "publication_date": null
+    }
+  ],
+  "failed_queries": [],
+  "collection_stats": {
+    "total_collected": 25,
+    "total_verified": 0,
+    "failed_queries": 0,
+    "phase1_count": 0,
+    "phase2_count": 0,
+    "phase3_count": 0
+  },
+  "phase_specific_data": {
+    "phase1_anxiety": {
+      "description": "不安喚起：問題の深刻さ、リスク、損失",
+      "source_urls": [],
+      "total_count": 0,
+      "key_data_summary": [],
+      "usage_sections": [
+        "introduction",
+        "H2-1",
+        "H2-2"
+      ]
+    },
+    "phase2_understanding": {
+      "description": "理解納得：解決策、方法、効果",
+      "source_urls": [],
+      "total_count": 0,
+      "key_data_summary": [],
+      "usage_sections": [
+        "H2-3",
+        "H2-4",
+        "H2-5",
+        "H2-6",
+        "H2-7",
+        "H2-8",
+        "H2-9",
+        "H2-10"
+      ]
+    },
+    "phase3_action": {
+      "description": "行動決定：成功事例、導入実績、費用対効果",
+      "source_urls": [],
+      "total_count": 0,
+      "key_data_summary": [],
+      "usage_sections": [
+        "H2-11",
+        "H2-12",
+        "conclusion"
+      ]
+    }
+  },
+  "knowledge_gaps_filled": [],
+  "section_source_mapping": []
+}
