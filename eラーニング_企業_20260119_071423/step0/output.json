@@ -1,0 +1,66 @@
+{
+  "step": "step0",
+  "keyword": "eラーニング 企業",
+  "analysis": "```json\n{\n  \"keyword\": \"eラーニング 企業\",\n  \"search_intent\": \"企業内研修（社員教育）へのeラーニング導入、またはシステム切り替えの検討。自社に合ったサービスやLMS（学習管理システム）の比較・選定、導入効果（メリット・デメリット）、費用感を知りたいというB2Bの検索意図が強い。\",\n  \"difficulty\": \"high\",\n  \"suggested_topics\": [\n    \"企業向けeラーニングシステムおすすめ比較\",\n    \"eラーニング導入のメリットとデメリット（集合研修との違い）\",\n    \"失敗しない法人向けeラーニングの選び方\",\n    \"社員研修のオンライン化・eラーニング活用事例\",\n    \"eラーニングシステムの費用相場と料金体系\"\n  ],\n  \"target_audience\": \"企業の経営者、人事・総務部の責任者、人材育成・研修担当者、DX推進担当者\"\n}\n```",
+  "search_intent": "企業内研修（社員教育）へのeラーニング導入、またはシステム切り替えの検討。自社に合ったサービスやLMS（学習管理システム）の比較・選定、導入効果（メリット・デメリット）、費用感を知りたいというB2Bの検索意図が強い。",
+  "difficulty_score": 5,
+  "recommended_angles": [],
+  "target_audience": "企業の経営者、人事・総務部の責任者、人材育成・研修担当者、DX推進担当者",
+  "content_type_suggestion": "",
+  "four_pillars_evaluation": null,
+  "article_strategy": null,
+  "word_count_config": {
+    "mode": "ai_balanced",
+    "manual_word_count": null,
+    "tolerance": {
+      "min_tolerance": -300,
+      "max_tolerance": 300
+    }
+  },
+  "cta_specification": {
+    "design_type": "staged",
+    "placements": {
+      "early": {
+        "position": 650,
+        "url": "",
+        "text": ""
+      },
+      "mid": {
+        "position": 2800,
+        "url": "",
+        "text": ""
+      },
+      "final": {
+        "position": "target_word_count - 500",
+        "url": "",
+        "text": ""
+      }
+    }
+  },
+  "search_volume": null,
+  "competition": null,
+  "model": "gemini-3-pro-preview",
+  "model_config": {
+    "platform": "gemini",
+    "model": "gemini-3-pro-preview"
+  },
+  "token_usage": {
+    "input": 110,
+    "output": 214
+  },
+  "metrics": {
+    "char_count": 434,
+    "word_count": 252
+  },
+  "quality": {
+    "issues": [],
+    "attempts": 1
+  },
+  "parse_result": {
+    "success": true,
+    "format_detected": "json",
+    "fixes_applied": [
+      "code_block_removed"
+    ]
+  }
+}
