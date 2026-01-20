@@ -1,0 +1,66 @@
+{
+  "step": "step0",
+  "keyword": "eラーニング 企業",
+  "analysis": "```json\n{\n  \"keyword\": \"eラーニング 企業\",\n  \"search_intent\": \"社内研修や人材育成を効率化・標準化するために、法人向けのeラーニングシステム（LMS）や研修コンテンツの導入を検討している。サービスの機能比較、料金相場、導入事例、または特定の研修テーマ（コンプライアンス、情報セキュリティ、新人研修など）に対応しているかを知りたいという意図が強い。\",\n  \"difficulty\": \"high\",\n  \"suggested_topics\": [\n    \"法人向けeラーニングサービスの徹底比較・おすすめランキング\",\n    \"企業研修におけるeラーニング導入のメリット・デメリット\",\n    \"失敗しないLMS（学習管理システム）の選び方\",\n    \"コンプライアンス・情報セキュリティ研修に強いeラーニング\",\n    \"eラーニング導入にかかる費用相場とコスト対効果\"\n  ],\n  \"target_audience\": \"企業の人事・総務担当者、教育・研修責任者、経営層、社内DX推進担当者\"\n}\n```",
+  "search_intent": "社内研修や人材育成を効率化・標準化するために、法人向けのeラーニングシステム（LMS）や研修コンテンツの導入を検討している。サービスの機能比較、料金相場、導入事例、または特定の研修テーマ（コンプライアンス、情報セキュリティ、新人研修など）に対応しているかを知りたいという意図が強い。",
+  "difficulty_score": 5,
+  "recommended_angles": [],
+  "target_audience": "企業の人事・総務担当者、教育・研修責任者、経営層、社内DX推進担当者",
+  "content_type_suggestion": "",
+  "four_pillars_evaluation": null,
+  "article_strategy": null,
+  "word_count_config": {
+    "mode": "ai_balanced",
+    "manual_word_count": null,
+    "tolerance": {
+      "min_tolerance": -300,
+      "max_tolerance": 300
+    }
+  },
+  "cta_specification": {
+    "design_type": "staged",
+    "placements": {
+      "early": {
+        "position": 650,
+        "url": "",
+        "text": ""
+      },
+      "mid": {
+        "position": 2800,
+        "url": "",
+        "text": ""
+      },
+      "final": {
+        "position": "target_word_count - 500",
+        "url": "",
+        "text": ""
+      }
+    }
+  },
+  "search_volume": null,
+  "competition": null,
+  "model": "gemini-3-pro-preview",
+  "model_config": {
+    "platform": "gemini",
+    "model": "gemini-3-pro-preview"
+  },
+  "token_usage": {
+    "input": 110,
+    "output": 233
+  },
+  "metrics": {
+    "char_count": 484,
+    "word_count": 300
+  },
+  "quality": {
+    "issues": [],
+    "attempts": 1
+  },
+  "parse_result": {
+    "success": true,
+    "format_detected": "json",
+    "fixes_applied": [
+      "code_block_removed"
+    ]
+  }
+}
